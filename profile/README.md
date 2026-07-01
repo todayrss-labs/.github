@@ -42,10 +42,10 @@ TodayRSS Labs is also exploring developer tools for RSS automation and AI workfl
 
 ## Repositories
 
-- `wechat-rss-guide`  
+- [`wechat-rss-guide`](https://github.com/todayrss-labs/x-rss-guide)  
   A guide for subscribing to WeChat Official Accounts with RSS.
 
-- `x-rss-guide`  
+- [`x-rss-guide`](https://github.com/todayrss-labs/wechat-rss-guide)  
   A guide for subscribing to X / Twitter accounts with RSS.
 
 ## Vision

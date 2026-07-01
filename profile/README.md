@@ -19,6 +19,7 @@ We help users, developers and AI Agents turn important content sources into stab
 - WeChat Official Accounts / 微信公众号
 - Bilibili / B站
 - Weibo / 微博
+- xueqiu / 雪球
 - Xiaoyuzhou / 小宇宙
 - Xueqiu / 雪球
 - RSSHub-based sources

@@ -6,6 +6,8 @@ We help users, developers and AI Agents turn important content sources into stab
 
 我们致力于将微信公众号、B站、微博、雪球、X / Twitter、YouTube、Instagram、LinkedIn、Telegram 等内容源转换为稳定、可订阅、可自动化处理的 RSS / API 输入。
 
+我们的核心优势是：1）极致的微信公众号订阅体验：简单接入、低延迟分钟级同步；2）稳定性；3）简单的API集成；
+
 ---
 
 ## Products

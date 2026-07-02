@@ -6,8 +6,6 @@ We help users, developers and AI Agents turn important content sources into stab
 
 我们致力于将微信公众号、B站、微博、雪球、X / Twitter、YouTube、Instagram、LinkedIn、Telegram 等内容源转换为稳定、可订阅、可自动化处理的 RSS / API 输入。
 
-我们的核心优势是：1）极致的微信公众号订阅：简单接入、低延迟分钟级同步；2）超高的稳定性；3）可API集成；
-
 ---
 
 ## Products
@@ -27,6 +25,12 @@ We help users, developers and AI Agents turn important content sources into stab
 
 Website: https://www.jintiankansha.me/
 
+我们的核心优势是：
+- 1）极致简单的微信公众号订阅能力。不需要定时扫码、不需要额外任何复杂操作。
+- 2）低延迟分钟级同步；
+- 3）超高的稳定性；
+- 4）可API集成；
+
 ---
 
 ### TodayRSS
@@ -36,7 +40,7 @@ Website: https://www.jintiankansha.me/
 主要支持海外内容源 RSS 订阅，包括：
 
 - X / Twitter
-- YouTube
+- YouTube文字版
 - Instagram
 - LinkedIn Company
 - Telegram
